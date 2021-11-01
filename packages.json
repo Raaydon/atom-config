@@ -334,6 +334,10 @@
 	"timecop": {
 		"version": "0.36.2"
 	},
+	"tokyo-night-syntax": {
+		"version": "0.2.0",
+		"theme": "syntax"
+	},
 	"tree-view": {
 		"version": "0.228.3"
 	},

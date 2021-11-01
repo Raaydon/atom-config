@@ -3,15 +3,19 @@
 		"core": {
 			"telemetryConsent": "limited",
 			"themes": [
-				"nebula-ui",
-				"nebula-syntax"
+				"one-dark-ui",
+				"tokyo-night-syntax"
 			],
 			"uriHandlerRegistration": "always"
 		},
 		"exception-reporting": {
 			"userId": "e32e1ca9-ab37-4b2e-a6e3-7b154835571e"
 		},
+		"linter-ui-default": {
+			"panelHeight": 300
+		},
 		"sync-settings": {
+			"hiddenSettings": {},
 			"useOtherLocation": true
 		},
 		"sync-settings-git-location": {
