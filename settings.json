@@ -1,0 +1,21 @@
+{
+	"*": {
+		"core": {
+			"telemetryConsent": "limited",
+			"themes": [
+				"nebula-ui",
+				"nebula-syntax"
+			],
+			"uriHandlerRegistration": "always"
+		},
+		"exception-reporting": {
+			"userId": "e32e1ca9-ab37-4b2e-a6e3-7b154835571e"
+		},
+		"sync-settings": {
+			"useOtherLocation": true
+		},
+		"sync-settings-git-location": {
+			"gitUrl": "https://github.com/Raaydon/atom-config"
+		}
+	}
+}
